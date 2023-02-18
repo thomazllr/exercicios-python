@@ -1,5 +1,6 @@
 # exercicios-python <img src="https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" align="right" width="150">
- Resolução de exercícios da faculdade em Python
+
+Resolução de exercícios da faculdade em Python
  
  
 # Listas - NÍVEL INICIANTE
