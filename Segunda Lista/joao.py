@@ -1,8 +1,3 @@
-//João recebeu seu salário e precisa pagar duas contas que estão atrasadas. Como as contas estão
-atrasadas, João terá de pagar multa de 2% sobre cada conta. Faça um programa que leia o valor do
-salário, o valor de cada uma das contas, calcule e mostre o valor que João pagou em cada conta e
-quanto restarádo salário do João.//
-
 salario = float(input("Digite o salário de João: "))
 conta1 = float(input("Digite o valor da primeira conta: "))
 conta2 = float(input("Digite o valor da segunda conta: "))
