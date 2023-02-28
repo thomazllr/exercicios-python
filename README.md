@@ -7,3 +7,8 @@ Resolução de exercícios da faculdade em Python
 [Primeira lista](https://github.com/thomazllr/exercicios-python/tree/main/Primeira%20Lista)
 
 [Segunda lista](https://github.com/thomazllr/exercicios-python/tree/main/Segunda%20Lista)
+
+[Terceira lista](https://github.com/thomazllr/exercicios-python/tree/main/3.%20Lista)
+
+[Quarta lista](https://github.com/thomazllr/exercicios-python/tree/main/4.%20Lista)
+
