@@ -12,6 +12,6 @@ Resolução de exercícios da faculdade em Python
 
 [Quarta lista](https://github.com/thomazllr/exercicios-python/tree/main/4.%20Lista)
 
-[Quinta Lista]()
+[Quinta Lista](https://github.com/thomazllr/exercicios-python/tree/main/5.%20Lista)
 
-[Sexta Lista]()
+[Sexta Lista](https://github.com/thomazllr/exercicios-python/tree/main/6.%20Lista)
