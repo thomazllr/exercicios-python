@@ -1,0 +1,14 @@
+import random
+
+valorAleatorio = random.randint(1,10)
+
+n1 = int(input("Digite um número: "))
+
+print("Número aleatório:" , valorAleatorio)
+
+if n1 > valorAleatorio:
+    print (f"Usuário escolheu o maior número: {n1}")
+elif n1 == valorAleatorio:
+    print(f"Valor escolhido igual ao aleátorio")
+else:
+    print(f"Usuário escolheu o menor número: {n1}")
