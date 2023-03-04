@@ -1,6 +1,8 @@
 # Exercícios em Python <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Text-x-python.svg/1200px-Text-x-python.svg.png" align="right" width="200">
 
 Resolução de exercícios da faculdade em Python
+
+Testando TESTE TESTANDO
  
  
 # Listas - NÍVEL INICIANTE
