@@ -10,7 +10,7 @@ if tipo == "Comercial":
         valor = 500.00
         print(f"Valor total da conta de água: R$ {valor}")
     elif n1 > 80:
-        valor = 500.00 + (0.25 * n1)
+        valor = 500.00 + (0.25 * (n1-80))
         print(f"Valor total da conta de água: R$ {valor}")
 
 
@@ -19,5 +19,5 @@ if tipo == "Industrial":
         valor = 800
         print(f"Valor total da conta de água: R$ {valor}")
     elif n1 > 100:
-        valor = 800.00 + (0.04 * n1)
+        valor = 800.00 + (0.04 * (n1-100))
         print(f"Valor total da conta de água: R$ {valor}")
