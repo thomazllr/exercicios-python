@@ -4,14 +4,14 @@ Resolução de exercícios da faculdade em Python
  
  
 # Listas - NÍVEL INICIANTE
-[Primeira lista](https://github.com/thomazllr/exercicios-python/tree/main/1.%20Lista)
+[1ª Lista](https://github.com/thomazllr/exercicios-python/tree/main/1.%20Lista)
 
-[Segunda lista](https://github.com/thomazllr/exercicios-python/tree/main/2.%20Lista)
+[2ª lista](https://github.com/thomazllr/exercicios-python/tree/main/2.%20Lista)
 
-[Terceira lista](https://github.com/thomazllr/exercicios-python/tree/main/3.%20Lista)
+[3ª lista](https://github.com/thomazllr/exercicios-python/tree/main/3.%20Lista)
 
-[Quarta lista](https://github.com/thomazllr/exercicios-python/tree/main/4.%20Lista)
+[4ª lista](https://github.com/thomazllr/exercicios-python/tree/main/4.%20Lista)
 
-[Quinta Lista](https://github.com/thomazllr/exercicios-python/tree/main/5.%20Lista)
+[5ª Lista](https://github.com/thomazllr/exercicios-python/tree/main/5.%20Lista)
 
-[Sexta Lista](https://github.com/thomazllr/exercicios-python/tree/main/6.%20Lista)                                                                                                                  
+[6ª Lista](https://github.com/thomazllr/exercicios-python/tree/main/6.%20Lista)                                                                                                                  
